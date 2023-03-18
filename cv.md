@@ -18,3 +18,24 @@
 * JS
 * Git, GitHub
 * VS Code, WebStorm
+
+## Code example:
+```
+function explode(s) {
+  return s.split('').map(k=>{
+    let y = '';
+    for(let i = 0; i < +k; i++){
+     y += k
+    }
+    return y
+  }).join('')
+}
+```
+
+## Courses:
+* Educational Center of HTP
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## Languages:
+* English (B1)
+* Russian (Native)
